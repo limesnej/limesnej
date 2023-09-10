@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @limesnej
-- I’m interested in triathlon
-- I’m currently learning web programming
-- I’m looking to collaborate on anything
 - 📫 How to reach me: 
 
 <!---
